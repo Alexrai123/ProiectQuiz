@@ -1,0 +1,5 @@
+D:\!JetBrains Rider 2021.3.3\VS\ProiectQuiz\AdministrareIntrebareFisierText\obj\Debug\net5.0\AdministrareIntrebareFisierText.csproj.AssemblyReference.cache
+D:\!JetBrains Rider 2021.3.3\VS\ProiectQuiz\AdministrareIntrebareFisierText\obj\Debug\net5.0\AdministrareIntrebareFisierText.GeneratedMSBuildEditorConfig.editorconfig
+D:\!JetBrains Rider 2021.3.3\VS\ProiectQuiz\AdministrareIntrebareFisierText\obj\Debug\net5.0\AdministrareIntrebareFisierText.AssemblyInfoInputs.cache
+D:\!JetBrains Rider 2021.3.3\VS\ProiectQuiz\AdministrareIntrebareFisierText\obj\Debug\net5.0\AdministrareIntrebareFisierText.AssemblyInfo.cs
+D:\!JetBrains Rider 2021.3.3\VS\ProiectQuiz\AdministrareIntrebareFisierText\obj\Debug\net5.0\AdministrareIntrebareFisierText.csproj.CoreCompileInputs.cache

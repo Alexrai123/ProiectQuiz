@@ -1,0 +1,6 @@
+D:\!JetBrains Rider 2021.3.3\VS\Clase\bin\Debug\Clase.dll
+D:\!JetBrains Rider 2021.3.3\VS\Clase\bin\Debug\Clase.pdb
+D:\!JetBrains Rider 2021.3.3\VS\Clase\obj\Debug\Clase.csproj.CoreCompileInputs.cache
+D:\!JetBrains Rider 2021.3.3\VS\Clase\obj\Debug\Clase.dll
+D:\!JetBrains Rider 2021.3.3\VS\Clase\obj\Debug\Clase.pdb
+D:\!JetBrains Rider 2021.3.3\VS\Clase\obj\Debug\Clase.csproj.AssemblyReference.cache
